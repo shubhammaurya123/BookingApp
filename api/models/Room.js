@@ -1,4 +1,6 @@
 import mongoose from "mongoose";
+
+///this is Room Schema
 const RoomSchema = new mongoose.Schema(
   {
     title: {
